@@ -11,15 +11,18 @@
     sudo apt-get install -d packagename
     The files will be located in "/var/cache/apt/archives".
 
-##If you would like to suppress output, you can pass the "-qq" flag to the command:
+#If you would like to suppress output, you can pass the "-qq" flag to the command:
 
     sudo apt-get remove -qq packagename
 
 #Search for a package
+
     apt-cache search terms
 
 #View information about a package
+
     apt-cache show package_name
 
 #Check which repository it belongs to
+
     apt-cache policy package_name
