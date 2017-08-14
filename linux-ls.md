@@ -10,3 +10,6 @@
 
 #list long format with readable file size
     ls -lh	
+
+# Type of file
+    ls -F
