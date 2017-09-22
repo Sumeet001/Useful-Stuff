@@ -1,0 +1,1 @@
+robocopy "C:\Sumeet Work Laptop" "K:\Sumeet Work Laptop" /E /XC /XN /XO
